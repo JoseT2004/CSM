@@ -1,0 +1,508 @@
+CSM — CARTAS SIN MORAL
+500 cartas originales para la edición CSM v1.1 (18+)
+___ = espacio de respuesta; las preguntas sin espacio explícito requieren una respuesta.
+{derecha}, {izquierda}, {mesa} = nicknames de referencia de la ronda.
+
+CARTAS NEGRAS (100)
+N001 [1] ¿Qué encontró Magaly en el celular de mi viejo?
+N002 [1] El Perú tiene tres regiones naturales: costa, sierra y ___.
+N003 [1] ¿Qué chucha están vendiendo ahora en el Avelino?
+N004 [1] Mi mamá prendió una velita para que Dios me libre de ___.
+N005 [1] La verdadera razón por la que Bolognesi no se rindió: ___.
+N006 [1] No me da vergüenza admitir que me gusta ___.
+N007 [1] ¿Qué hay en la mochila de {derecha}?
+N008 [1] El nuevo sabor de Inca Kola: ___.
+N009 [1] Mi primera vez olía a ___.
+N010 [1] ¿Qué se necesita para ser presidente del Perú?
+N011 [1] Se suspendieron las clases en la UNSA debido a ___.
+N012 [1] Lo que pasa en Camaná se queda en Camaná. Excepto ___.
+N013 [1] Mi abuelita murió sin saber qué era ___.
+N014 [1] No importa cuánta plata tengas, jamás podrás comprar ___.
+N015 [1] La última búsqueda de Google de mi papá fue ___.
+N016 [1] Al fondo hay sitio, pero también hay ___.
+N017 [1] ¿Qué debería ser considerado patrimonio cultural del Perú?
+N018 [1] El profe dijo que podíamos llevar cualquier material al examen. Yo llevé ___.
+N019 [1] Paucarpata: tierra de ___.
+N020 [1] ¿Qué está escondiendo la Iglesia desde hace siglos?
+N021 [1] Mi mamá encontró ___ debajo de mi cama.
+N022 [1] ¿Qué es lo peor que te pueden decir mientras estás cagando?
+N023 [1] La única razón por la que todavía no tengo hijos es ___.
+N024 [1] Si alguna vez me ves llorando, probablemente sea por ___.
+N025 [1] ¿Qué tiene mi ex que no tenga yo?
+N026 [1] Asu Mare 4: ___.
+N027 [1] Gracias, Señor, por los alimentos y por ___.
+N028 [1] ¿Con qué me van a recibir en el infierno?
+N029 [1] Mi papá me enseñó a manejar, a tomar cerveza y a apreciar ___.
+N030 [1] {izquierda} vendería su culo a cambio de ___.
+N031 [1] ¿Qué le falta a la Plaza de Armas para ser perfecta?
+N032 [1] El SIS acaba de aprobar un tratamiento para ___.
+N033 [1] El próximo curso obligatorio de Estudios Generales será ___.
+N034 [1] No lo van a creer, pero la momia Juanita murió por ___.
+N035 [1] ¿Qué me recomienda el algoritmo de TikTok a las tres de la mañana?
+N036 [1] Lo único que me mantiene con vida durante finales es ___.
+N037 [1] ¿Qué hay en la maleta que nadie quiere recoger en el Terminal Terrestre?
+N038 [1] Mi mamá dice que me enfermé por ___.
+N039 [1] El Misti no está inactivo. Está esperando ___.
+N040 [1] En lugar de bailar el vals, en mi boda habrá ___.
+N041 [1] El verdadero motivo por el que mi papá salió a comprar pan: ___.
+N042 [1] ¿Qué pidió {mesa} para Navidad?
+N043 [1] Señores pasajeros, por favor absténganse de ___.
+N044 [1] ¿Qué es lo primero que haría si ganara la Tinka?
+N045 [1] No hay nada más peruano que ___.
+N046 [1] El secreto para llegar a los 100 años es ___.
+N047 [1] ¿Qué no debería llevar al velorio de mi suegra?
+N048 [1] ¿Qué hay realmente en los tuppers que nunca devolví?
+N049 [1] Mi último mensaje antes de que me bloqueara decía: «___».
+N050 [1] El nuevo requisito para sacar brevete es ___.
+N051 [1] La contraseña del wifi de mi abuelita es ___.
+N052 [1] ¿Qué encontró el arqueólogo dentro de una chullpa?
+N053 [1] Me quedé sin Beca 18 por culpa de ___.
+N054 [1] Mi pequeño negocio de ___ quebró a los dos días.
+N055 [1] ¿Qué le faltó a mi educación sexual?
+N056 [1] El menú ejecutivo de hoy incluye ___.
+N057 [1] Mi psicólogo me cobra 80 soles para hablar de ___.
+N058 [1] ¿Qué está vendiendo {mesa} por Marketplace?
+N059 [1] Lo último que quiero oír durante un temblor es ___.
+N060 [1] Los extraterrestres vinieron al Perú buscando ___.
+N061 [1] ¿Qué lleva un peruano en la maleta cuando se va a vivir al extranjero?
+N062 [1] En esta casa se respeta a Dios, a tu madre y a ___.
+N063 [1] Se busca personal con experiencia en ___. Sueldo mínimo.
+N064 [1] La universidad me dio un diploma por ___.
+N065 [1] ¿Qué puso {derecha} en su descripción de Tinder?
+N066 [1] Mi relación a distancia terminó por ___.
+N067 [1] ¿Qué le pediría a un genio si me quedara un solo deseo?
+N068 [1] La última frase de mi abuelo antes de morir fue: «___».
+N069 [1] El nuevo monumento de Cerro Colorado será dedicado a ___.
+N070 [1] ¿Qué fue lo que realmente se llevaron los Reyes Magos?
+N071 [1] Mi cura me mandó a rezar tres padrenuestros por ___.
+N072 [1] La razón por la que no me dejan volver a esa picantería: ___.
+N073 [1] ¿Qué le escondería al médico durante un chequeo?
+N074 [1] Los incas ya habían inventado ___ antes de que llegaran los españoles.
+N075 [1] ¿Qué hace {izquierda} cuando nadie lo está viendo?
+N076 [1] Mi jefe dice que no hay presupuesto para aumentos, pero sí para ___.
+N077 [1] ¿Con qué me confundieron en el hospital?
+N078 [1] El próximo feriado nacional será en honor a ___.
+N079 [1] Lo más raro que he visto desde la ventana de una combi: ___.
+N080 [1] Hoy no fui a clases porque tenía una cita con ___.
+N081 [1] ¿Qué hará que me echen de la casa?
+N082 [1] El nuevo deporte de los Juegos Olímpicos: ___.
+N083 [1] Mi familia decidió dejar de hablarme por ___.
+N084 [1] ¿Qué hay detrás de la puerta prohibida de la UNSA?
+N085 [1] El último audio que mandó {mesa} al grupo familiar trataba sobre ___.
+N086 [2] En el colegio me enseñaron que ___ era pecado, pero que ___ estaba bien.
+N087 [2] Hoy en Magaly TV: imágenes exclusivas de ___ con ___.
+N088 [2] Mi tesis se titula: Influencia de ___ sobre ___ en Arequipa.
+N089 [2] Mi primera experiencia sexual involucró ___ y ___.
+N090 [2] Mi ex tuvo que elegir entre ___ y ___.
+N091 [2] Antes de morir quiero experimentar ___. Después de morir, ___.
+N092 [2] Mi mamá me dio ___. Mi papá, en cambio, me dio ___.
+N093 [2] Este 28 de julio celebramos dos grandes logros del Perú: ___ y ___.
+N094 [2] El nuevo menú universitario incluye ___ con una porción de ___.
+N095 [2] Se vende ___. Se acepta ___ como medio de pago.
+N096 [2] El nuevo éxito de Netflix: ___ contra ___.
+N097 [2] Hay dos cosas que no se prestan: ___ y ___.
+N098 [2] La Iglesia ahora acepta ___, pero todavía condena ___.
+N099 [2] Mi CV dice que tengo experiencia en ___ y un diplomado en ___.
+N100 [2] Mi vecino llamó a Serenazgo porque confundió ___ con ___.
+
+CARTAS BLANCAS (400)
+B001 Tu vieja
+B002 Una orgía patrocinada por Caja Arequipa
+B003 La diarrea
+B004 Un choro con principios
+B005 La pastilla del día siguiente
+B006 Los huevos de Miguel Grau
+B007 Una borrachera financiada por Beca 18
+B008 Un emolientero que también vende agua bendita
+B009 Un calato en el centro de Arequipa
+B010 La impotencia sexual
+B011 Una cachimbada que acabó en la comisaría
+B012 Un Yape falso
+B013 La segunda venida de Cristo
+B014 Un calzoncillo que ya se puede parar solo
+B015 Mi papá y su otra familia
+B016 La pobreza extrema
+B017 Un cuy atropellado
+B018 El hijo que sí salió del matrimonio
+B019 Una erección en el momento menos indicado
+B020 Los baños del Avelino
+B021 La eutanasia
+B022 SIDA
+B023 Un condón vencido
+B024 El cadáver de mi sugar daddy
+B025 Un menú de siete soles que incluye purgante
+B026 Cagarse en plena exposición
+B027 Un ingeniero titulado por Facebook Marketplace
+B028 La menstruación
+B029 La momia Juanita
+B030 Un feto con DNI
+B031 Los testigos de Jehová
+B032 Una teta más grande que la otra
+B033 Una invasión de terreno en el cielo
+B034 El retiro de mi AFP
+B035 Una prostituta que acepta Yape
+B036 {derecha}
+B037 El olor a culo
+B038 Combustión anal espontánea
+B039 La educación sexual de mis padres
+B040 Una rata del tamaño de un gato
+B041 El pene de un desconocido
+B042 Un certificado médico comprado
+B043 Los 30 segundos más decepcionantes de mi vida
+B044 Una chocolatada con presupuesto de obra pública
+B045 La calvicie de mi culo
+B046 La SUNAT
+B047 La parte más venosa del nepe
+B048 La muerte de mi mascota
+B049 Un mototaxista con doctorado
+B050 Los universitarios más pendejos de Arequipa
+B051 Un huevo que necesita atención médica
+B052 Un aborto clandestino
+B053 Lord Farquaad
+B054 Un bautizo en la piscina de un telo
+B055 Mi compañero de grupo que no hizo ni mierda
+B056 El tercer pezón
+B057 Una pollada para pagar la pensión de alimentos
+B058 Un viejo verde
+B059 La pensión alimenticia de mi sugar daddy
+B060 El Niño Dios
+B061 Una foto de mi ex en pelotas
+B062 Un ataúd de segunda mano
+B063 Un caldo de órganos no identificados
+B064 La hepatitis
+B065 Una mamada por responsabilidad social
+B066 El desagüe del río Chili
+B067 Un frasco de prepucios
+B068 Un tío que pide perdón en el grupo familiar a las tres de la mañana
+B069 Los restos de mi dignidad
+B070 Una vaca con depresión
+B071 Un tampón usado
+B072 La última neurona de un congresista
+B073 Una flatulencia con denominación de origen
+B074 Un trío que terminó en denuncia
+B075 Un padre ausente
+B076 Un pollo a la brasa con las cenizas de mi abuelo
+B077 Un vibrador comprado en el Avelino
+B078 La flacidez de mis nalgas
+B079 Un condenado a muerte
+B080 Mi historial de búsqueda
+B081 Una pollada para pagar la vasectomía
+B082 Mi ano después de comer rocoto
+B083 Mi moco seco
+B084 Un temblor provocado por mi suegra
+B085 Un cura con Tinder Premium
+B086 Los huacos eróticos
+B087 Una colecta para pagar el OnlyFans de mi profesor
+B088 Un DNI encontrado en el motel
+B089 El ano de un pan francés
+B090 Un borracho que insiste en manejar
+B091 El semen
+B092 Una prueba de ADN en Navidad
+B093 Una estafa piramidal de agua bendita
+B094 El sonido de un pedo en un funeral
+B095 Una visita inesperada de la SUNAT
+B096 Un funeral con hora loca
+B097 Un kilo de grasa de liposucción
+B098 La próstata
+B099 La última voluntad de un cachudo
+B100 La ex que me debe una prueba de paternidad
+B101 El Avelino a mediodía
+B102 Un bebé con cara de viejo
+B103 Un olor a muerto que nadie sabe de dónde viene
+B104 Una cola de gente esperando su turno para pecar
+B105 Una deuda con la mafia del bingo parroquial
+B106 Mi pinche suerte
+B107 La caspa
+B108 Un chupetón en la foto del DNI
+B109 Un aborto de tesis
+B110 {izquierda}
+B111 Una boda entre dos personas que se odian
+B112 Un préstamo para pagar mi cambio de sexo
+B113 Un caldo de cabeza sin preguntar de quién
+B114 La sobrina favorita de mi tío
+B115 Una tesis sobre la masturbación en época de parciales
+B116 Un anticucho de procedencia humana
+B117 Los dientes postizos de mi abuela
+B118 La disfunción eréctil
+B119 Una toalla con antecedentes penales
+B120 Pedir fiado en un prostíbulo
+B121 La virginidad de un estudiante de Sistemas
+B122 Una resurrección con resaca
+B123 El agua del baño de un telo
+B124 Un cobrador de combi con tres familias
+B125 Dormir desnudo en casa de mi suegra
+B126 Un supositorio
+B127 La caca de paloma
+B128 Una prueba de embarazo positiva
+B129 La cárcel
+B130 Un audio de mi papá confesando un delito
+B131 Una beca de estudios para mi amante
+B132 Una herencia de veinte soles
+B133 Una verruga en el culo
+B134 Un crucifijo confiscado por la policía
+B135 Un óvulo a cinco soles
+B136 Un gringo que aprendió a decir conchatumadre
+B137 Mi padrastro de 23 años
+B138 Una mentira en el lecho de muerte
+B139 El candidato que regala táperes
+B140 Un maniquí con orden de alejamiento
+B141 La leche de un varón decepcionado
+B142 La cuenta del telo
+B143 Papel higiénico de segunda mano
+B144 El olor a pata
+B145 Una piñata rellena de pruebas de embarazo
+B146 El tráfico de órganos por catálogo
+B147 Un chancho que se cree el Mesías
+B148 Un embargo de juguetes para adultos
+B149 Un gemido que atravesó tres paredes
+B150 La tercera edad
+B151 Una peluca hecha de pelos del poto
+B152 Un pedo silencioso
+B153 La cara de mi mamá al ver mis notas
+B154 Una herencia disputada antes del funeral
+B155 Un tío que cura la sífilis con manzanilla
+B156 Un examen de próstata
+B157 Un préstamo del gota a gota
+B158 Un queso helado con sabor a culpa
+B159 La zona de fumadores del infierno
+B160 Un entierro por delivery
+B161 Un recibo por servicios sexuales
+B162 Un novio prestado
+B163 La ropa interior de la semana pasada
+B164 El herpes
+B165 Un taxi que huele a infidelidad
+B166 La promoción de dos por uno en el telo
+B167 Un mapache con mi DNI
+B168 El historial de un cibercafé abandonado
+B169 Una entrevista de trabajo en calzoncillos
+B170 Una bolsa de testículos de utilería
+B171 El chiste que contó el cura
+B172 Una gallina con chaleco de la UNSA
+B173 La alfombra de un prostíbulo
+B174 Un padrino con orden de captura
+B175 Una foto familiar con los tres amantes de mi mamá
+B176 Un testículo
+B177 El ruido sospechoso de un baño público
+B178 La abstinencia
+B179 Una microdosis de dignidad
+B180 Un choclo en una radiografía
+B181 Una transferencia bancaria a mi extorsionador
+B182 Un táper lleno de cenizas humanas
+B183 Mi mamá rezando para que no salga la prueba de ADN
+B184 Una vasectomía en oferta
+B185 Un profesor que dicta clases desde el penal
+B186 Un pollo sin patas
+B187 El trauma de mi psicólogo
+B188 Una tía que pregunta por mi fertilidad en el velorio
+B189 Una rascadita de poto
+B190 Una caja llena de uñas cortadas
+B191 Un entierro con chancho al cilindro
+B192 Una rifa para pagar el funeral del organizador
+B193 Un sacerdote ateo
+B194 Un sol de saldo y tres órdenes de captura
+B195 La herencia del amante de mi abuela
+B196 El espíritu de Túpac Amaru
+B197 Un chupetín con pelos
+B198 Un jubilado adicto al casino
+B199 Una quema ritual de ropa interior
+B200 Una tortuga con ansiedad
+B201 El cáncer de colon
+B202 Una misa de cuerpo presente sin cuerpo
+B203 El sacachispas de mi viejo
+B204 La teta izquierda
+B205 Un PowerPoint de la autopsia
+B206 Una bolsa de sangre con fecha vencida
+B207 El colchón de mis papás
+B208 Un curso de cómo ser un sugar baby exitoso
+B209 Un caldo de gallina para recuperarse de una orgía
+B210 Una multa por exhibicionismo
+B211 Un choro que devuelve la billetera sin plata
+B212 La Virgen de Chapi
+B213 Los venezolanos y peruanos peleándose por la receta de la arepa
+B214 Un culo de botella
+B215 Un huevo que no era de gallina
+B216 Mi ex y su nuevo novio
+B217 Un billete de veinte encontrado en un calzoncillo
+B218 Un sticker obsceno en el grupo de la familia
+B219 Tres mariachis en el entierro equivocado
+B220 Un queso que desarrolló conciencia propia
+B221 La depilación con cinta de embalaje
+B222 Los pelos del ombligo
+B223 Una reunión de Zoom sin pantalón
+B224 Una prueba de polígrafo en la luna de miel
+B225 Un velorio con canje de puntos
+B226 Los hongos de mis pies
+B227 La última cena de un condenado a muerte
+B228 Un cuarto de alquiler con un fantasma voyeur
+B229 El baño de una discoteca
+B230 Una chicha de jora fermentada en un calzón
+B231 Un chifa clandestino dentro de un cementerio
+B232 El ex de mi pareja en mi árbol genealógico
+B233 La lista de hijos no reconocidos de mi papá
+B234 La resaca del lunes
+B235 Un culito sudado
+B236 Una foto con el esqueleto de Anatomía
+B237 La contraseña del OnlyFans de mi vecino
+B238 El Misti haciendo erupción en época de parciales
+B239 Un piercing donde no llega el sol
+B240 Un congresista con secundaria completa
+B241 Un sorbo de formol
+B242 Una factura de la morgue
+B243 Una llamada de cobranza en plena misa
+B244 El tío que comparte Piolines de buenos días
+B245 Una cita para la autopsia dentro de seis meses
+B246 Mi vieja gritándome desde el primer piso
+B247 Un chocolatito laxante en Navidad
+B248 La marca del calzoncillo en la piel
+B249 Un bombero que se excita con las alarmas
+B250 Un certificado de virginidad emitido por la SUNAT
+B251 Una bolsa de vómito con sorpresa
+B252 Una beca para estudiar cómo ser mantenido
+B253 Los huevos de Gokú
+B254 Un soltero de cuarenta con toque de queda
+B255 Mi primer sueldo en un club nocturno
+B256 Un pelo púbico entre los dientes
+B257 Una suegra que sabe demasiado
+B258 Un cuarto con paredes de triplay
+B259 Un fantasma que no acepta que ya murió
+B260 Un profesor que toma asistencia en el velorio
+B261 Una oferta laboral de esclavitud emocional
+B262 Un olor que no sale con jabón
+B263 Un cuy con implantes de silicona
+B264 Un bingo para financiar el divorcio del cura
+B265 Los mocos de mi primo
+B266 Un tío que llegó borracho a su propia operación
+B267 Un silbato atorado en el culo
+B268 Una denuncia por ruido en el telo
+B269 La tuberculosis
+B270 El apocalipsis
+B271 Un calato con solo una media
+B272 El gel íntimo
+B273 Un rosario fluorescente
+B274 Un perro que heredó toda la fortuna familiar
+B275 El Santo Sudario
+B276 La vecina que escucha detrás de la puerta
+B277 Mi último espermatozoide viable
+B278 Una jarra de agua de la morgue
+B279 Un pene dibujado en la carpeta
+B280 Un contrato prenupcial escrito en papel higiénico
+B281 Una boda sin novia
+B282 Una procesión de santos borrachos
+B283 La caquita del cuy
+B284 Un saco de calzones decomisados
+B285 El tío que vende su voto por un polo
+B286 La foto que no debí subir a estados
+B287 Un condón relleno de agua
+B288 Una rifa cuyo premio es un ataúd
+B289 Una cucharada de fluidos misteriosos
+B290 Un himno nacional cantado en un telo
+B291 Un baño compartido por seis cachudos
+B292 Una tarjeta de cumpleaños de la funeraria
+B293 El hermano que vendió las cenizas de mi abuelo
+B294 Una nalga quemada en Camaná
+B295 Un funeral auspiciado por una pollería
+B296 Un hombre que se persigna antes de entrar al telo
+B297 El Grinch
+B298 Una faja que retiene mis órganos
+B299 El chino que vende de todo
+B300 Un voto nulo con un pene dibujado
+B301 Las hemorroides
+B302 Una ensalada rusa del siglo pasado
+B303 La crisis de los cuarenta de mi viejo
+B304 Un serenazgo que llegó al exorcismo
+B305 Una declaración jurada de fidelidad
+B306 Una chompa tejida con vello púbico
+B307 Un abogado que se demandó a sí mismo
+B308 Un pezón con complejo de superioridad
+B309 Un frasco de champú lleno de sospechas
+B310 Una llamada de RENIEC para confirmar mi defunción
+B311 El papá de Peppa Pig
+B312 Una paloma que cagó en el féretro
+B313 Un beso con sabor a ceviche
+B314 Un Black Friday en la funeraria
+B315 El agua de un jacuzzi de dudosa reputación
+B316 Un cobrador que aparece hasta en mis sueños eróticos
+B317 Una foto policial en lugar del carnet universitario
+B318 Una letrina con vista al Misti
+B319 Dos soles de pensión alimenticia
+B320 Un premio de consolación por infertilidad
+B321 Un pavo con necrosis
+B322 El culo de Shrek
+B323 Un vaso de leche que no salió de una vaca
+B324 Una cita con el dentista sin anestesia
+B325 La ex que todavía tiene mi Netflix
+B326 Un pollo a la brasa hallado en la escena del crimen
+B327 El aliento de un cadáver resucitado
+B328 Una venganza con pruebas de WhatsApp
+B329 Un muerto que se perdió su propio entierro
+B330 Un olor a pescado en la sacristía
+B331 Una infidelidad descubierta por el historial de Yape
+B332 Un impuesto a la paja
+B333 La monja que me enseñó religión
+B334 Un hijo no reconocido
+B335 Una pizza con placenta
+B336 Un pedo en el ascensor
+B337 Un examen de próstata de recuperación
+B338 Un sacerdote haciendo stand-up
+B339 Una pechuga con implantes de dudosa calidad
+B340 Un prolapso en plena misa
+B341 Un pedazo de placenta en el táper
+B342 Una fila para confesarse por infidelidad
+B343 Una costra que no debo arrancar
+B344 La suegra de mi ex
+B345 El almuerzo de la última cena recalentado
+B346 Mi capacidad para tomar malas decisiones
+B347 Un ovario con ansiedad
+B348 Un ataúd con luces LED
+B349 La gorra del Chavo del Ocho
+B350 Un karaoke de gemidos
+B351 Un palo de escoba requisado en el telo
+B352 Un limón en el lugar equivocado
+B353 El calzoncillo de la suerte
+B354 La silicona de un culo clandestino
+B355 Una misita por mi promedio
+B356 Un chisme de cinco generaciones
+B357 Un divorcio en pleno bautizo
+B358 Un sobre de lubricante confundido con ketchup
+B359 La vergüenza ajena
+B360 Una multa por orinar en la calle
+B361 Los pelos de la ducha
+B362 Una rata que heredó mi puesto de trabajo
+B363 La jubilación anticipada de mi pene
+B364 Un minuto de silencio por mi virginidad
+B365 La familia de mi sugar mommy
+B366 Mi cara en la foto de la denuncia
+B367 Una cumbia para invocar a los muertos
+B368 Un cuy con la mirada de mi suegra
+B369 Un parlante que reproduce los audios privados de mi viejo
+B370 Una parrillada con la familia del difunto
+B371 El culo de un santo de yeso
+B372 Un vaso de cerveza con pelos flotando
+B373 Mi fe en la humanidad
+B374 Un practicante de la morgue en su primer día
+B375 Una luna de miel en el último asiento de la combi
+B376 Una fiesta de fin de ciclo con tres pruebas de embarazo
+B377 Una tesis plagiada del manual del Kamasutra
+B378 La contraseña de la cuenta secreta de mi papá
+B379 El único amigo que no me debe pensión
+B380 Una carta notarial de mi suegra
+B381 Una cita doble con mi ex y su ex
+B382 Un baño sin pestillo en una clínica de fertilidad
+B383 Un pedo radiactivo en el último asiento de la combi
+B384 Un negocio piramidal
+B385 Mi foto de la ficha de desaparecidos
+B386 Un pobre huevón
+B387 El infierno
+B388 Una prueba de embarazo comprada por error
+B389 Una disculpa por escrito de mi pene
+B390 El pezón de mi tío
+B391 La falsa promesa de que solo será una chela
+B392 Un vibrador de segunda mano en la feria del Altiplano
+B393 La dignidad de un cachudo en la Plaza de Armas
+B394 Una señora regateando el precio de su ataúd
+B395 Una hamburguesa con un diente humano
+B396 El olor del uniforme después de dos semanas
+B397 Un velorio con Yape obligatorio
+B398 Un panetón relleno de cenizas
+B399 Un certificado de virginidad falsificado
+B400 Un exorcismo a domicilio
